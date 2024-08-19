@@ -21,10 +21,10 @@ repository               : "videolab-nyu/videolab-nyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "Video Lab @ New York University"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
