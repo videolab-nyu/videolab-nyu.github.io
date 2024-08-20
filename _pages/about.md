@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 --- 
 
-<p align="right">
-  <img src="/images/Logo.png" alt="Video Lab" width="300" style="margin-left: 20px;">
+<p>
+  <img src="/images/Logo.png" alt="Video Lab" width="300" style="margin-left: 200px;">
 </p>
 ![Video Lab](/images/1.jpeg)
 
