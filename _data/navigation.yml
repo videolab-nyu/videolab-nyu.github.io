@@ -23,3 +23,6 @@ main:
     
   - title: "Gallery"
     url: /markdown/
+  
+  - title: "check"
+    url: /check/
