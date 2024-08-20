@@ -22,7 +22,7 @@ redirect_from:
   }
 </style>
 
-<h1 class="page-title" style="text-align: right; margin-right: 30px;">Welcome to the Video Lab at New York University!</h1>
+<h1 class="page-title" style="text-align: right; margin-right: 20px;">Welcome to the Video Lab at New York University!</h1>
 
 
 
@@ -38,7 +38,11 @@ redirect_from:
 
 At the Video Lab, we integrate cutting-edge techniques in video processing, computer vision, medical image analysis, and neural data analysis to tackle complex challenges across various domains. Through these multidisciplinary projects, our team strives to explore novel methodologies and develop tools that transform research practices and enhance outcomes in diverse fields, including image/video compression, cognitive neuroscience, and beyond. We are a part of <a href="https://wireless.engineering.nyu.edu" style="color: purple;">NYU Wireless</a>.
 
-<h1 class="page-title">Interested in joining us?</h1>
+
+<div style="margin-top: 40px;">
+  <h1 class="page-title">Interested in joining us?</h1>
+</div>
+
 
 The NYU Video Lab is actively seeking talented Ph.D. students to join our research team. We are particularly interested in candidates with a robust research background in video processing and communication, medical image analysis, computer vision, and machine learning. Ideal applicants will hold a B.S. or M.S. degree in Electrical or Computer Engineering, Computer Science, or Biomedical Engineering.
 
