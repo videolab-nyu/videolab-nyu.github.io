@@ -22,7 +22,7 @@ redirect_from:
   }
 </style>
 
-<h1 class="page-title" style="text-align: right;">Welcome to the Video Lab at New York University!</h1>
+<h1 class="page-title" style="text-align: right; margin-right: 20px;">Welcome to the Video Lab at New York University!</h1>
 
 
 
