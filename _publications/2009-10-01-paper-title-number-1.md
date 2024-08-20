@@ -1,7 +1,6 @@
 ---
 title: "Journals and Conference Papers"
 collection: publications
-category: manuscripts
 permalink: /publication/journals-and-conference-papers
 ---
 
