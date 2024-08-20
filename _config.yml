@@ -222,6 +222,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  check:
+    output: true
+    permalink: /:collection/:path/
+
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -278,6 +282,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+  # _check
+  - scope:
+      path: ""
+      type: check
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
