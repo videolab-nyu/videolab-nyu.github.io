@@ -36,7 +36,7 @@ redirect_from:
 </div>
 
 
-At the Video Lab, we integrate cutting-edge techniques in video processing, computer vision, medical image analysis, and neural data analysis to tackle complex challenges across various domains. Through these multidisciplinary projects, our team strives to explore novel methodologies and develop tools that transform research practices and enhance outcomes in diverse fields, including image/video compression, cognitive neuroscience, and beyond.
+At the Video Lab, we integrate cutting-edge techniques in video processing, computer vision, medical image analysis, and neural data analysis to tackle complex challenges across various domains. Through these multidisciplinary projects, our team strives to explore novel methodologies and develop tools that transform research practices and enhance outcomes in diverse fields, including image/video compression, cognitive neuroscience, and beyond. We are a part of <a href="https://wireless.engineering.nyu.edu" style="color: purple;">NYU Wireless</a>.
 
 <h1 class="page-title">Interested in joining us?</h1>
 
