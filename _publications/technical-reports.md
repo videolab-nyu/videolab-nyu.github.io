@@ -1,5 +1,5 @@
 ---
 title: "Technical Reports"
 collection: publications
-permalink: /publication/technical-reports/
+permalink: /publications/technical-reports/
 ---
