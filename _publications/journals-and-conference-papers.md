@@ -6,7 +6,7 @@ permalink: /publications/journals-and-conference-papers/
 
 
 <ul>
-You can find these papers and more details on the <a href="https://scholar.google.com/citations?user=AnALXFcAAAAJ&hl=en" style="color: inherit; text-decoration: none;"><strong>Google Scholar page</strong></a>.
+You can find these papers and more details on the <a href="https://scholar.google.com/citations?user=AnALXFcAAAAJ&hl=en" style="color: #6D1F8A; text-decoration: none;"><strong>Google Scholar page</strong></a>.
 </ul>
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">2024</h1>
