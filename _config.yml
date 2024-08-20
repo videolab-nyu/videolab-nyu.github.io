@@ -226,6 +226,22 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+  gallery:
+    output: true
+    permalink: /:collection/:path/
+
+  research:
+    output: true
+    permalink: /:collection/:path/
+
+  news:
+    output: true
+    permalink: /:collection/:path/
+
+  people:
+    output: true
+    permalink: /:collection/:path/
+
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -287,6 +303,46 @@ defaults:
   - scope:
       path: ""
       type: check
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
     values:
       layout: single
       author_profile: true
