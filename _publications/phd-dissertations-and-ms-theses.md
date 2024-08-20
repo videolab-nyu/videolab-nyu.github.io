@@ -1,5 +1,5 @@
 ---
 title: "PhD Dissertations and MS Theses"
 collection: publications
-permalink: /publication/phd-dissertations-and-ms-theses/
+permalink: /publications/phd-dissertations-and-ms-theses/
 ---
