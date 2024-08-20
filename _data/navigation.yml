@@ -36,4 +36,5 @@ main:
   - title: "Gallery"
     url: /gallery/
   
-
+  - title: "Check"
+    url: /check/
