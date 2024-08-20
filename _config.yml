@@ -238,9 +238,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-  people:
-    output: true
-    permalink: /:collection/:path/
+  # people:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -309,15 +309,15 @@ defaults:
       share: true
       comment: true
 
-  # _people
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  # # _people
+  # - scope:
+  #     path: ""
+  #     type: people
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
 
   # _news
   - scope:
