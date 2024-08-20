@@ -1,7 +1,7 @@
 ---
 title: "Journals and Conference Papers"
 collection: publications
-permalink: /publications/journals-and-conference-papers
+permalink: /publications/journals-and-conference-papers/
 ---
 
 2024
