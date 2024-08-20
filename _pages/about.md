@@ -30,8 +30,11 @@ redirect_from:
 </div>
 
 <div style="margin-top: 40px;">
-  <p>Welcome to the Video Lab at New York University! Here, we explore cutting-edge technology in video processing and analysis. Our team is dedicated to advancing the field through research, development, and collaboration.</p>
+  <h1 class="page-title">About us</h1>
 </div>
+
+
+At the Video Lab, we integrate cutting-edge techniques in video processing, computer vision, medical image analysis, and neural data analysis to tackle complex challenges across various domains. Through these multidisciplinary projects, our team strives to explore novel methodologies and develop tools that transform research practices and enhance outcomes in diverse fields, including image/video compression, cognitive neuroscience, and beyond.
 
 <h1 class="page-title">Interested in joining us?</h1>
 
@@ -39,5 +42,6 @@ The NYU Video Lab is actively seeking talented Ph.D. students to join our resear
 
 Depending on your research interests, you may apply to either the Ph.D. program in Electrical and Computer Engineering or the Ph.D. program in Biomedical Engineering. Along with submitting your formal application through NYU Tandon’s admission portal, we encourage you to reach out to Prof. Yao Wang with your curriculum vitae, academic transcripts, and a summary of your previous research experience.
 
-Depending on your research interests, you may apply to either the Ph.D. program in Electrical and Computer Engineering or the Ph.D. program in Biomedical Engineering. Along with submitting your formal application through [NYU Tandon’s admission portal](https://engineering.nyu.edu/admissions/graduate), we encourage you to reach out to [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) with your curriculum vitae, academic transcripts, and a summary of your previous research experience.
+Depending on your research interests, you may apply to either the Ph.D. program in Electrical and Computer Engineering or the Ph.D. program in Biomedical Engineering. Along with submitting your formal application through <a href="https://engineering.nyu.edu/admissions/graduate" style="color: purple;">NYU Tandon’s admission portal</a>, we encourage you to reach out to <a href="https://engineering.nyu.edu/faculty/yao-wang" style="color: purple;">Prof. Yao Wang</a> with your curriculum vitae, academic transcripts, and a summary of your previous research experience.
+
 
