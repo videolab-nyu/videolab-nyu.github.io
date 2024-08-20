@@ -1,8 +1,13 @@
 ---
-title: "Journals and Conference Papers"
+title: "Journals and Conference Papers (Since 2010)"
 collection: publications
 permalink: /publications/journals-and-conference-papers/
 ---
+
+
+<ul>
+  <li><a href="https://scholar.google.com/citations?user=AnALXFcAAAAJ&hl=en" style="color: inherit; text-decoration: none;"><strong>Google Scholar Page</strong></a>: You can find these papers and more details on the <a href="https://scholar.google.com/citations?user=AnALXFcAAAAJ&hl=en" style="color: inherit; text-decoration: none;"><strong>Google Scholar page</strong></a>.</li>
+</ul>
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">2024</h1>
 
