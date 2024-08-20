@@ -25,8 +25,8 @@ redirect_from:
 <h1 class="page-title">Welcome to the Video Lab at New York University!</h1>
 
 <div class="image-container">
-  <img src="/images/Logo.png" alt="Video Lab" width="300" style="margin-bottom: 10px;">
-  <img src="/images/1.jpeg" alt="Video Lab" width="300">
+  <img src="/images/Logo.png" alt="Video Lab" width="200" style="margin-bottom: 5px;">
+  <img src="/images/1.jpeg" alt="Video Lab" width="800">
 </div>
 
 Welcome to the Video Lab at New York University! Here, we explore cutting-edge technology in video processing and analysis. Our team is dedicated to advancing the field through research, development, and collaboration.
