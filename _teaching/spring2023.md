@@ -1,5 +1,5 @@
 ---
-title: "Spring 2023"
+title: ""
 collection: teaching
 permalink: /teaching/spring2023/
 ---
