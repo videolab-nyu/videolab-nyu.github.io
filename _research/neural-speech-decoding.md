@@ -4,6 +4,7 @@ collection: research
 permalink: /research/neural-speech-decoding/
 ---
 
+![Alt text](/images/ecog.png)
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Project Summary</h1>
 Decoding human speech from neural signals is essential for brain–computer
 interface (BCI) technologies that aim to restore speech in populations
