@@ -28,7 +28,7 @@ speech synthesizer that maps speech parameters to spectrograms.
 This project is funded by the National Science Foundation (NSF).
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Available Code</h1>
-<p>Explore the available code for these projects on <a href="https://github.com/your-username/your-repository" style="color: #6D1F8A;">this GitHub page</a>.</p>
+<p>Explore the available code for these projects on <a href="https://github.com/flinkerlab/neural_speech_decoding" style="color: #6D1F8A;">this GitHub page</a>.</p>
 
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Related Publications</h1>
