@@ -17,19 +17,18 @@ the cortex into interpretable speech parameters and a novel diferentiable
 speech synthesizer that maps speech parameters to spectrograms.
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Participants</h1>
-<p>Yao Wang, Principal Investigator</p>
-<p>Adeen Flinker, Co-Principal Investigator</p>
-<p>Amirhossein Khalilian-Gourtani, Post Doc</p>
-<p>Xupeng Chen, Ph.D. student</p>
-<p>Nika Emami, Ph.D. student</p>
-<p>Chenqian Le, Ph.D. student</p>
+<p style="margin: 5px 0;">Yao Wang, Principal Investigator</p>
+<p style="margin: 5px 0;">Adeen Flinker, Co-Principal Investigator</p>
+<p style="margin: 5px 0;">Amirhossein Khalilian-Gourtani, Post Doc</p>
+<p style="margin: 5px 0;">Xupeng Chen, Ph.D. student</p>
+<p style="margin: 5px 0;">Nika Emami, Ph.D. student</p>
+<p style="margin: 5px 0;">Chenqian Le, Ph.D. student</p>
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Sponsor</h1>
 This project is funded by the National Science Foundation (NSF).
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Available Code</h1>
-Explore the available code for these projects on [this GitHub page](https://github.com/flinkerlab/neural_speech_decoding).
-
+<p>Explore the available code for these projects on <a href="https://github.com/your-username/your-repository" style="color: #6D1F8A;">this GitHub page</a>.</p>
 
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Related Publications</h1>
