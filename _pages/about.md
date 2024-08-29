@@ -28,7 +28,7 @@ redirect_from:
 
 <div class="image-container">
   <img src="/images/Logo.png" alt="Video Lab" width="200" style="margin-bottom: 5px;">
-  <img src="/images/4.jpeg" alt="Video Lab" width="800">
+  <img src="/images/3.jpeg" alt="Video Lab" width="800">
 </div>
 
 <div style="margin-top: 40px;">
