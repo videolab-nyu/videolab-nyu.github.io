@@ -8,10 +8,10 @@ permalink: /publications/other-presentations/
   <li>Presentation in a short course on Deep Learning for Computer Vision in the Deep Learning School in 2022 Autumn 
     (<a href="https://deeplearn.irdta.eu/2022au/" style="color: #6D1F8A; text-decoration: none;">link</a>)
     <ul>
-      <li><a href="https://drive.google.com/file/d/1zLMkqZ187Dpfb25C7MIsDdk6BGkUBask/view?usp=sharing" style="color: #6D1F8A; text-decoration: none;">— Lecture outline</a></li>
-      <li><a href="https://drive.google.com/open?id=1zMrFdoKZX-Xyh6AS_XNa7pxQ7jgL0shq&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;">— Session 1</a></li>
-      <li><a href="https://drive.google.com/open?id=1zPyhr9OsTUMpRLrqviCyV32BIrg3cL59&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;">— Session 2</a></li>
-      <li><a href="https://drive.google.com/open?id=1zQQLGNw2ZOwS_N8cp83Gqk_7qvFoSr4Q&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;">— Session 3</a></li>
+      <li><a href="https://drive.google.com/file/d/1zLMkqZ187Dpfb25C7MIsDdk6BGkUBask/view?usp=sharing" style="color: #6D1F8A; text-decoration: none;"> Lecture outline</a></li>
+      <li><a href="https://drive.google.com/open?id=1zMrFdoKZX-Xyh6AS_XNa7pxQ7jgL0shq&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;"> Session 1</a></li>
+      <li><a href="https://drive.google.com/open?id=1zPyhr9OsTUMpRLrqviCyV32BIrg3cL59&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;"> Session 2</a></li>
+      <li><a href="https://drive.google.com/open?id=1zQQLGNw2ZOwS_N8cp83Gqk_7qvFoSr4Q&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;"> Session 3</a></li>
     </ul>
   </li>
   <li>Keynote presentation at Picture Coding Symposium 2018, <a href="URL_HERE" style="color: #6D1F8A; text-decoration: none;">“FoV Adaptive 360 degree video streaming”</a>. (<a href="https://drive.google.com/open?id=1gcG2Oh359KQYNREEz-NclcwNmqXNmhx4&authuser=yw523%40nyu.edu&usp=drive_fs" style="color: #6D1F8A; text-decoration: none;">slides</a>)</li>
