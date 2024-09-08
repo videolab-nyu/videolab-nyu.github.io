@@ -4,7 +4,7 @@ collection: research
 permalink: /research/critical-region-prediction/
 ---
 
-![Alt text](/images/ecog.png)
+![Alt text](/images/critical-region.png)
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Project Summary</h1>
 Current neurosurgical methods for mapping the language cortex, such as Electrical Stimulation Mapping (ESM), face significant limitations including invasiveness, time consumption, and patient cooperation challenges. Electrocorticography (ECoG) has emerged as a potential improvement by offering enhanced spatial and temporal resolution. However, its application in language mapping has been constrained by traditional analysis methods that focus narrowly on signal strength at individual electrodes. In this study, we propose a novel approach by employing transformer-based machine learning models to analyze ECoG data comprehensively. Our findings suggest that transformer architectures can advance the precision and effectiveness of language mapping techniques, potentially overcoming some of the limitations of current methods.
 
