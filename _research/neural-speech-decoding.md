@@ -25,8 +25,7 @@ speech synthesizer that maps speech parameters to spectrograms.
 <p style="margin: 5px 0;">Xupeng Chen, Ph.D. student</p>
 <p style="margin: 5px 0;">Nika Emami, Ph.D. student</p>
 <p style="margin: 5px 0;">Chenqian Le, Ph.D. student</p>
-<p style="margin: 5px 0;">Jinaghao Qian, Ph.D. student</p>
-<p style="margin: 5px 0;">Tianyu He, Ph.D. student</p>
+<p style="margin: 5px 0;">Tianyu He, Visiting student</p>
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Sponsor</h1>
 This project is funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309057&HistoricalAwards=false" style="color: #6D1F8A;">the National Science Foundation (NSF)</a>.
