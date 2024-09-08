@@ -3,17 +3,17 @@ title: "Image and Video Processing Project Guidelines"
 permalink: /teaching/projects/
 ---
 
-### Course Project Requirements:
+<h2 style="color: #6D1F8A; margin-top: 40px;">Course Project Requirements:</h2>
 
 This course requires a project to be performed by two to three students in a group. A project includes the following phases: forming project partner(s), choosing a project topic, writing a project plan, conducting the project, writing a midterm project report, presenting the project in class, and writing a final project report.
 
-### Project Content:
+<h2 style="color: #6D1F8A; margin-top: 40px;">Project Content:</h2>
 
 A project usually consists of reading papers in the chosen area, comparing performances of different approaches, and perhaps proposing your own algorithms/improvements, and implementing one or two of them.
 
 You are welcome to discuss with me about the possible topics before the project plan is due.
 
-### Project Plan (2-4 pages, single column):
+<h2 style="color: #6D1F8A; margin-top: 40px;">Project Plan (2-4 pages, single column):</h2>
 
 The project plan should include the following:
 
@@ -22,11 +22,12 @@ The project plan should include the following:
 3. **Project schedule:** It should include a list of subtasks that you plan to accomplish. For each subtask, describe how you plan to approach it, who in your team is primarily responsible for it, and the deadline for completing it. You should allocate time for literature search, preparing the final report, and final presentation, in addition to the reading/simulation work you plan to do.
 4. **List of references:** This includes papers and documents and possibly web links that you have found that are relevant to your project topic. Please include complete citation of each item: author, title of the article, journal or book name, and if appropriate, the URL where you get the information. Please follow the IEEE paper reference styles.
 
-### A Note About Literature Study:
+<h2 style="color: #6D1F8A; margin-top: 40px;">A Note About Literature Study:</h2>
 
-A good way to search scholarly papers is via [Google Scholar](https://scholar.google.com). If you identified a paper on the web but cannot find the full paper, you can try to use NYU library databases to obtain PDF copies of the paper. NYU library has online IEEE and ACM databases that include all papers published by IEEE and ACM.
+A good way to search scholarly papers is via <a href="https://scholar.google.com" style="color: #6D1F8A;">Google Scholar</a>. If you identified a paper on the web but cannot find the full paper, you can try to use NYU library databases to obtain PDF copies of the paper. NYU library has online IEEE and ACM databases that include all papers published by IEEE and ACM.
 
-### Midterm Project Report (3-5 pages, double column style of IEEE papers):
+<h2 style="color: #6D1F8A; margin-top: 40px;">Midterm Project Report (3-5 pages, double column style of IEEE papers):</h2>
+
 
 You can think of the midterm report as a preliminary version of your final project report. It consists of all sections to be included in the final report, except that you will have one section describing the remaining work to be accomplished, in lieu of the Summary Section of the final report.
 
@@ -37,7 +38,7 @@ You can think of the midterm report as a preliminary version of your final proje
 - **Remaining work:** Describe what additional work needs to be accomplished and your plan in accomplishing them, including who is responsible for what and the timeline.
 - **List of references:** Update from your project plan as appropriate. The reference citation must be complete including all information (authors, title of journals/conferences, year, and URL if it is an online document). Please follow IEEE style.
 
-### Final Project Report (4-6 pages, double column style of IEEE papers):
+<h2 style="color: #6D1F8A; margin-top: 40px;">Final Project Report (4-6 pages, double column style of IEEE papers):</h2>
 
 The final report should be a revised version of your midterm report, with updates in each section, except that the “Remaining Work” section will be replaced by the “Summary” section, and a new section on the project depository.
 
@@ -45,6 +46,7 @@ The final report should be a revised version of your midterm report, with update
 
 7. **Depository of your project outcome:** You should save all your work, including source code, executable, data used, results, in a location that can be shared with us (Github, Google Drive, or Dropbox), and you should provide the link to the repository in your report.
 
+<h2 style="color: #6D1F8A; margin-top: 40px;">Project Content:</h2>
 ### Final Project Presentation:
 
 A ~10 minutes oral presentation, with demonstration of computer implementations. Time allocation depends on the number of projects to be presented and the number of team members. You should prepare a presentation file using a computer software (e.g., PowerPoint).
@@ -52,7 +54,7 @@ A ~10 minutes oral presentation, with demonstration of computer implementations.
 1. You will be giving the presentation in person or via Zoom. 
 2. If you want to include any demonstration in your presentation, please make sure it can be presented directly from your computer.
 
-#### Suggested Outline for Your Presentation:
+<h2 style="color: #6D1F8A; margin-top: 40px;">Suggested Outline for Your Presentation:</h2>
 
 - **Project title and team members**
 - **Overview of your project:** The overall goal and subtasks, and who is responsible for what.
@@ -62,12 +64,13 @@ A ~10 minutes oral presentation, with demonstration of computer implementations.
 
 If you have more than one person on the project team, please prepare the presentation in such a way that each person on your team can present different parts of it. A two-person team is typically given 10 minutes, a 3-person team 13 minutes, a single-person team 7 minutes. You should practice your presentation in advance to make sure that you know how to share your presentation over Zoom and how the team members coordinate and that you will complete on time.
 
-### Note on Plagiarism and Proper Acknowledgement:
+<h2 style="color: #6D1F8A; margin-top: 40px;">Note on Plagiarism and Proper Acknowledgement:</h2>
 
 Please note that you should not copy sentences/paragraphs or software codes from other documents! You should give full credit to any source (e.g., a graph or a paper) that your work references. Please read the paragraph about plagiarism and proper acknowledgement of references in NYU Student Code of Conduct carefully. All electronic submissions (project plan, report, and presentation) will be checked through Turnitin service on NYU Classes interface, to check for plagiarism. You will get a grade of zero for any work submitted that is found to violate this rule. You are recommended to upload your submission at least several hours before the deadline, so that you can see the result from Turnitin. This way, you will have time to revise if Turnitin reports excessive duplications from public sources.
 
 Please also note that you cannot use the same project for multiple courses, whether a project you have done in the past, or concurrently for multiple classes. 
 
+<h2 style="color: #6D1F8A; margin-top: 40px;">Project Content:</h2>
 ### Rubric for Project Grading:
 
 Projects contribute 30% of the total score of the class. The breakdown is as follows:
