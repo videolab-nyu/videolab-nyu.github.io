@@ -1,10 +1,8 @@
 ---
-title: ""
+title: "Image and Video Processing Project Guidelines"
 collection: teaching
 permalink: /teaching/projects/
 ---
-
-<h1>Image and Video Processing Project Guidelines</h1>
 
 ### Course Project Requirements:
 
