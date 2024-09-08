@@ -1,6 +1,5 @@
 ---
 title: "Image and Video Processing Project Guidelines"
-collection: publications
 permalink: /teaching/projects/
 ---
 
