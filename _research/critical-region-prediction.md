@@ -15,8 +15,8 @@ Current neurosurgical methods for mapping the language cortex, such as Electrica
 </p>
 <p style="margin: 5px 0;">Amirhossein Khalilian-Gourtani, Postdoc</p>
 <!-- <p style="margin: 5px 0;">Junbo Chen, Ph.D. student</p> -->
-<p style="margin: 5px 0;">Antoine Ratouchniak, Visiting student</p>
 <p style="margin: 5px 0;">Xupeng Chen, Ph.D. student</p>
+<p style="margin: 5px 0;">Antoine Ratouchniak, Visiting student</p>
 <p style="margin: 5px 0;">Nika Emami, Ph.D. student</p>
 <p style="margin: 5px 0;">Jinaghao Qian, Visiting student</p>
 
