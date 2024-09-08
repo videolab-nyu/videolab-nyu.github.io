@@ -6,6 +6,7 @@ permalink: /publications/phd-dissertations-and-ms-theses/
 
 
 <ul>
+  <li>Xingyu Pan, <a href="https://drive.google.com/file/d/1pbxtPdf9dIiOlAAPfGPKhmgCKqeNEUiF/view?usp=sharing" style="color: #6D1F8A; text-decoration: none;"><strong>“APPLICATION OF FEATURE COMPRESSION MODEL ON MOBILE DEVICES”</strong></a>, Tandon School of Engineering, New York University, Master Thesis, Sep. 2024.</li>
   <li>Zhongzheng (Jacky) Yuan, <a href="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/b/10258/files/2024/07/PhD_Thesis___Jacky_Yuan_Signed.pdf" style="color: #6D1F8A; text-decoration: none;"><strong>“Visual Analytics Through Edge Servers: Learned Feature Compression and Adaptive Video Coding”</strong></a>, Tandon School of Engineering, New York University, Ph.D. Dissertation, May 2024.</li>
   <li>Parisima Abdali, <a href="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/b/10258/files/2024/07/Parisima_Abdali_MSThesis_EE.pdf" style="color: #6D1F8A; text-decoration: none;"><strong>“MR Contrast Synthesis Using Deep Learning”</strong></a>, Tandon School of Engineering, New York University, Master Thesis, May 2024.</li>
   <li>Chenqian Le, <a href="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/b/10258/files/2024/06/NYU_Master_Thesis_0510.pdf" style="color: #6D1F8A; text-decoration: none;"><strong>“Neural Decoding and Understanding via Deep Learning”</strong></a>, Tandon School of Engineering, New York University, Master Thesis, May 2024.</li>
