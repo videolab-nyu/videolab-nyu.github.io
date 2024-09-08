@@ -19,7 +19,7 @@ speech synthesizer that maps speech parameters to spectrograms.
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Participants</h1>
 <p style="margin: 5px 0;">Yao Wang, Principal Investigator</p>
 <p style="margin: 5px 0;">
-  <a href="https://engineering.nyu.edu/faculty/adeen-flinker" style="color: inherit; text-decoration: none;">Adeen Flinker</a>, Co-Principal Investigator
+  <a href="https://engineering.nyu.edu/faculty/adeen-flinker" style="color: inherit; text-decoration: underline;">Adeen Flinker</a>, Co-Principal Investigator
 </p>
 <p style="margin: 5px 0;">Amirhossein Khalilian-Gourtani, Postdoc</p>
 <p style="margin: 5px 0;">Xupeng Chen, Ph.D. student</p>
