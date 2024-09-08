@@ -25,7 +25,7 @@ speech synthesizer that maps speech parameters to spectrograms.
 <p style="margin: 5px 0;">Chenqian Le, Ph.D. student</p>
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Sponsor</h1>
-This project is funded by the National Science Foundation (NSF).
+This project is funded by <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309057&HistoricalAwards=false" style="color: #6D1F8A;">the National Science Foundation (NSF)</a>.
 
 <h1 style="color: #6D1F8A; font-size: 24px; margin-top: 40px;">Available Code</h1>
 <p>Explore the available code for these projects on <a href="https://github.com/flinkerlab/neural_speech_decoding" style="color: #6D1F8A;">this GitHub page</a>.</p>
