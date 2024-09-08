@@ -14,7 +14,7 @@ Current neurosurgical methods for mapping the language cortex, such as Electrica
   <a href="https://engineering.nyu.edu/faculty/adeen-flinker" style="color: inherit; text-decoration: underline;">Adeen Flinker</a>, Co-Principal Investigator
 </p>
 <p style="margin: 5px 0;">Amirhossein Khalilian-Gourtani, Postdoc</p>
-<p style="margin: 5px 0;">Junbo Chen, Ph.D. student</p>
+<!-- <p style="margin: 5px 0;">Junbo Chen, Ph.D. student</p> -->
 <p style="margin: 5px 0;">Antoine Ratouchniak, Visiting student</p>
 <p style="margin: 5px 0;">Xupeng Chen, Ph.D. student</p>
 <p style="margin: 5px 0;">Nika Emami, Ph.D. student</p>
