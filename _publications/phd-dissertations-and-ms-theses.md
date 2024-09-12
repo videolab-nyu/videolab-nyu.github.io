@@ -6,6 +6,9 @@ permalink: /publications/phd-dissertations-and-ms-theses/
 
 
 <ul>
+  
+  <li>Nikola Janjušević, <a href="https://drive.google.com/file/d/1D89KscDW8JcrfwZ_59XP0H4yaHhG6e32/view?usp=sharing" style="color: #6D1F8A; text-decoration: none;"><strong>“Noise Adaptive Dictionary Learning based
+Deep Neural Networks for Imaging Inverse Problems”</strong></a>, Tandon School of Engineering, New York University, Ph.D. Dissertation, Aug. 2024.</li>
   <li>Xingyu Pan, <a href="https://drive.google.com/file/d/1pbxtPdf9dIiOlAAPfGPKhmgCKqeNEUiF/view?usp=sharing" style="color: #6D1F8A; text-decoration: none;"><strong>“APPLICATION OF FEATURE COMPRESSION MODEL ON MOBILE DEVICES”</strong></a>, Tandon School of Engineering, New York University, Master Thesis, Sep. 2024.</li>
   <li>Zhongzheng (Jacky) Yuan, <a href="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/b/10258/files/2024/07/PhD_Thesis___Jacky_Yuan_Signed.pdf" style="color: #6D1F8A; text-decoration: none;"><strong>“Visual Analytics Through Edge Servers: Learned Feature Compression and Adaptive Video Coding”</strong></a>, Tandon School of Engineering, New York University, Ph.D. Dissertation, May 2024.</li>
   <li>Parisima Abdali, <a href="https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/b/10258/files/2024/07/Parisima_Abdali_MSThesis_EE.pdf" style="color: #6D1F8A; text-decoration: none;"><strong>“MR Contrast Synthesis Using Deep Learning”</strong></a>, Tandon School of Engineering, New York University, Master Thesis, May 2024.</li>
